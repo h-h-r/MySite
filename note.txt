@@ -1,0 +1,7 @@
+favicon.cc
+google fonts
+loremipsum generator
+flat icon
+giphy
+css button generator
+https://www.frontendmentor.io
