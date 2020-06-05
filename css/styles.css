@@ -75,6 +75,7 @@ div {}
 }
 .avatar-img{
   width: 10%;
+  border-radius: 10%;
 }
 
 .coding-img {
