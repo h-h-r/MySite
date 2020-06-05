@@ -73,6 +73,9 @@ div {}
   margin: 50px auto 50px auto;
   text-align: left;
 }
+.avatar-img{
+  width: 5%;
+}
 
 .coding-img {
   width: 25%;
